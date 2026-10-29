@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Tech Challenge 2 V2 is an evolution of my original AWS EKS DevOps project.
+This project is an evolution of my original AWS EKS DevOps project.
 
 V1 used Jenkins to build, push, and deploy a containerized Flask application to Amazon EKS. V2 modernizes the architecture by introducing GitHub Actions for Continuous Integration, Argo CD for Continuous Delivery, GitOps for Kubernetes deployment management, and Prometheus/Grafana for observability.
 
