@@ -460,7 +460,7 @@ The completed V2 project demonstrated:
 
 ## Project Outcome
 
-Tech Challenge 2 V2 demonstrates the evolution of a traditional Jenkins-based CI/CD pipeline into a GitOps-based cloud deployment architecture.
+This project demonstrates the evolution of a traditional Jenkins-based CI/CD pipeline into a GitOps-based cloud deployment architecture.
 
 The final environment integrates Terraform, AWS, Docker, Kubernetes, Helm, GitHub Actions, Argo CD, Prometheus, Grafana, autoscaling, persistent storage, and load testing into a single end-to-end DevOps platform.
 
