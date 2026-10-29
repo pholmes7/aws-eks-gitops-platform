@@ -1,4 +1,4 @@
-# Tech Challenge 2 V2 — GitOps, CI/CD & Observability
+# AWS EKS Platform Modernization | GitOps, CI/CD & Observability
 
 ## Project Overview
 
